@@ -1,0 +1,6 @@
+1;https://undb.bitrix24.com.br/company/personal/user/24/tasks/board/?current_fieldset=SOCSERV
+5;file:///\\server10.dbosco.com.br/shared$/NTI/ScriptTabRotate/NTI01.jpg
+1;http://suporte.dbosco.com.br/glpi/plugins/dashboard/front/tickets/chamados.php
+5;file:///\\server10.dbosco.com.br/shared$/NTI/ScriptTabRotate/NTI02.jpg
+1;http://suporte.dbosco.com.br/glpi/plugins/dashboard/front/metrics/index.php
+5;file:///\\server10.dbosco.com.br/shared$/NTI/ScriptTabRotate/NTI03.jpg
